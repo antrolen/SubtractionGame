@@ -10,5 +10,7 @@ Subtraction Game
 ## Interface
 Console
 
-## Language
-JAVA
+## TOOLS
++ JAVA
++ openJDK-21
++ IntelliJ IDEA 2023.2.2
